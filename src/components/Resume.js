@@ -19,15 +19,17 @@ export default  class Resume extends Component {
               <li className="info" type="circle">Node.JS</li>
               <li className="info" type="circle">Ruby</li>
               <li className="info" type="circle">Haskell</li>
+              <li className="info" type="circle">SQL</li>
             </ul>
 
             <h3>Languages I am cracking on with</h3>
             <ul class="a">
-              <li className="info" type="circle">React/Redux</li>
+              <li className="info" type="circle">React and Redux</li>
               <li className="info" type="circle">AWS</li>
               <li className="info" type="circle">GO</li>
               <li className="info" type="circle">C++</li>
               <li className="info" type="circle">GrapQL</li>
+              <li className="info" type="circle">Flutter and Dart</li>
             </ul>
             </div>
          </div>

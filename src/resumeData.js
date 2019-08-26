@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Frontend Developer and Data Scientist",
     "linkedinId":"Your LinkedIn Id",
     "instagramId": "Your instagram ID",
-    "roleDescription": "Hi! I am Hyun Han. I made this website for your better understanding of me. So please feel free to look around and contact to me :p",
+    "roleDescription": "Hi! I am Hyun Han. This is like the map of me where you can see what I am curretnly doing and thinking. So please feel free to look around and contact to me :p",
     "socialLinks":[
         {
           "name":"linkedin",
